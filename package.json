@@ -134,7 +134,7 @@
     "nodemon": "2.0.19",
     "prettier": "2.8.7",
     "resolve-tspaths": "0.8.8",
-    "semver": "7.3.5",
+    "semver": "7.5.3",
     "shx": "0.3.3",
     "ts-node": "10.9.1",
     "tsc-watch": "6.0.0",
